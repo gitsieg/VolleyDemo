@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">VolleyDemo</string>
+    <string name="send_string_request">String</string>
+    <string name="send_image_request">Image</string>
+    <string name="send_json_request">JSON</string>
+    <string name="json_error">Error on JSONRequest.</string>
+    <string name="image_error">Error on ImageRequest.</string>
+    <string name="string_error">Error on StringRequest.</string>
+
+
 </resources>
